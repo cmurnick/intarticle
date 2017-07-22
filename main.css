@@ -1,3 +1,66 @@
 body {
-	background-color: blue;
+	background-color: lightblue;
+	
 }
+
+#pork {
+	background-color: lightgreen;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.5em;
+	color: red;
+	line-height: 1;
+	padding: 2px 15px 10px;
+	border-radius: 5%;
+	border: 10px solid purple;
+}
+
+#bacon {
+	background-color: yellow;
+	font-family: 'Oswald', sans-serif;
+	font-size: 12px;
+	color: darkgray;
+	line-height: 3;
+	padding: 10px;
+	border-radius: 25%;
+	border: 3em dotted darkblue;
+}
+
+#pigEar {
+	background-color: orange;
+	font-family: 'Lemonada', cursive;
+	font-size: 20px;
+	color: purple;
+	line-height: 1.5;
+	padding: 10px 13px 8px 10px;
+	border-radius: 50%;
+	border: 5px dashed goldenrod;
+}
+
+#greenEgg {
+	background-color: lightpink;
+	font-family: 'Indie Flower', cursive;
+	font-size: 15px;
+	color: black;
+	line-height: 40px;
+	padding: 15px 10px;
+	border-top-right-radius: 8%;
+	border: 5px solid darkgray;
+}
+
+#patti {
+	background-color: green;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 25px;
+	color: turquoise;
+	line-height: 3;
+	padding: 65px 10px;
+	border-bottom-right-radius: 30%;
+	border: 10px dotted lightgreen;
+
+
+
+
+
+
+
+
